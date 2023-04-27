@@ -31,7 +31,6 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
 ### @elizavetarysyeva
 
-## Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ElizavetaRysyeva&theme=solarized_dark)
+
 
 
