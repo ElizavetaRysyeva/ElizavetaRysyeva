@@ -1,6 +1,6 @@
 # Hello! I'm Rysyeva Elizaveta 👋
 
-#### I'm a junior data analyst. Currently, Now I'm working at Sber in the Cybersecurity department in the analytical diretion. I completed the "Data Analyst" course from Yandex.Practicum and as part of the semester courses, I studied operational data analysis, basics of machine learning, database design, and development using BI tools.
+#### I'm a junior data analyst. Currently. I completed the "Data Analyst" course from Yandex.Practicum and as part of the semester courses, I studied operational data analysis, basics of machine learning, database design, and development using BI tools.
 
 ## Languages & Tools
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
